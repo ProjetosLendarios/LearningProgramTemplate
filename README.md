@@ -1,6 +1,6 @@
-# ![Ícone do Projeto](./Docs/Icon.png) Nome do Projeto
+# <img src="./Docs/Icon.png" alt="Ícone do Projeto" width="100"/> <br>Nome do Projeto
 
-![Banner do Projeto](./Docs/BannerGithub.png)
+<img src="./Docs/BannerGithub.png" alt="Banner do Projeto" width="800"/>
 
 Descrição breve do projeto.
 
