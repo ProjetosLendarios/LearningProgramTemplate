@@ -23,7 +23,7 @@ Explique aqui o propósito do projeto, os conceitos que aborda e o que espera ap
 
 | Print 1 | Print 2 | Print 3 |
 |---------|---------|---------|
-| ![Print 1](./docs/print1.png) | ![Print 2](./docs/print2.png) | ![Print 3](./docs/print3.png) |
+| <img src="./Docs/Prints/print1.png" alt="Print 1" width="250"/> | <img src="./Docs/Prints/print2.png" alt="Print 2" width="250"/> | <img src="./Docs/Prints/print3.png" alt="Print 3" width="250"/> |
 
 ## Como Utilizar
 
