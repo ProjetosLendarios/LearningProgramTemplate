@@ -1,6 +1,6 @@
-# ![Ícone do Projeto](./docs/icon.png) Nome do Projeto
+# ![Ícone do Projeto](./Docs/Icon.png) Nome do Projeto
 
-![Banner do Projeto](./docs/BannerGitHub.png)
+![Banner do Projeto](./Docs/BannerGithub.png)
 
 Descrição breve do projeto.
 
