@@ -36,6 +36,8 @@ comando para iniciar o projeto
 Contribuições são bem-vindas! Sinta-se à vontade para enviar issues ou pull requests.
 
 ## Autor
+<img src="https://avatars.githubusercontent.com/u/50460047?v=4" alt="Gonçalo Garrido" width="75"/><br>
+Nome: Gonçalo Garrido <br>
+Email: Goncalosantosgarrido+LearningProgram@gmail.com<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20Agora-blue?style=for-the-badge&logoColor=white)](https://goncalogarrido2.github.io/GoncaloGarrido/)
 
-Gonçalo Garrido  
-Email: Goncalosantosgarrido+LearningProgram@gmail.com
